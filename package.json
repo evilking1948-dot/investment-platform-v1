@@ -1,7 +1,7 @@
 {
-  "name": "primewealthpro",
+  "name": "PrimeWealthpro",
   "version": "1.0.0",
-  "description": "Professional multi-asset primewealthpro",
+  "description": "Professional multi-asset PrimeWealthpro",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
