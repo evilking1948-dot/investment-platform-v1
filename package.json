@@ -1,7 +1,7 @@
 {
-  "name": "investment-platform",
+  "name": "primewealthpro",
   "version": "1.0.0",
-  "description": "Professional multi-asset investment platform",
+  "description": "Professional multi-asset primewealthpro",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
